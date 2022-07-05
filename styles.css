@@ -1,9 +1,9 @@
 body {
   text-align: center;
-  border: 3px solid;
+  border: 1px solid;
   border-color: purple;
   border-style: groove;
-  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Tahoma, Verdana, sans-serif;
   padding: 15px;
   margin: 200px;
   border-radius: 50px 50px;
@@ -12,17 +12,17 @@ body {
 
 h1 {
   color: purple;
-  font-size: 30px;
+  font-size: 25px;
   margin-bottom: none;
 }
 
 h2 {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 12px;
 }
 h3 {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 15px;
 }
 ul {
   margin: 0;
